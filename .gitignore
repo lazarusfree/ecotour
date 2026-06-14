@@ -1,0 +1,26 @@
+# Dependencies & build caches
+node_modules/
+Project/node_modules/
+Project/dist/
+*.log
+
+# Tooling / agent traces
+.hermes/
+.hermes-tmp.*
+.claude/
+.vscode/
+.idea/
+
+# OS / Office cruft
+Thumbs.db
+.DS_Store
+~$*
+
+# Coursework deliverables submitted elsewhere (Classroom), not GitHub
+finalassessment-groupprojectinstruction.pdf
+report.docx
+AITCS-OTH.doc
+AITCS-OTH.docx
+EcoTour-Presentation.pptx
+EcoTour-source-code.zip
+EcoTour-development-package.zip
